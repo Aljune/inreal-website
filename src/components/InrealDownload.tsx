@@ -5,7 +5,7 @@ export const InrealDownload = () => {
   const handleDownload = () => {
     // Create a mock APK download
     const link = document.createElement('a');
-    link.href = '/inreal-app.apk'; // This would be your actual APK file
+    link.href = 'https://cfdrlkf9qpksfj5z.public.blob.vercel-storage.com/app-release.apk'; // This would be your actual APK file
     link.download = 'inreal-app.apk';
     document.body.appendChild(link);
     link.click();
