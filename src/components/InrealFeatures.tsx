@@ -1,5 +1,5 @@
 import { Card } from "./ui/card";
-import { Zap, Shield, Smartphone, Cloud, Star, Users } from "lucide-react";
+import { Zap, Shield, Smartphone } from "lucide-react";
 
 export const InrealFeatures = () => {
   const features = [
