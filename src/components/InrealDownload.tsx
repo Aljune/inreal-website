@@ -70,7 +70,7 @@ export const InrealDownload = () => {
             </p>
             <div className="flex flex-wrap justify-center gap-6 text-sm">
               <span>Version: 1.1.0</span>
-              <span>Updated: December 2025</span>
+              <span>Updated: September 2025</span>
             </div>
           </div>
         </div>
